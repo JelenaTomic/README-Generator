@@ -15,7 +15,18 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  if(license === 'IBM'){
+    return '(https://opensource.org/licenses/IPL-1.0)';
+  }
+  if(license === 'ISC'){
+    return '(https://opensource.org/licenses/ISC)';
+  }
+  if(license ===  'MIT'){
+    return '(https://opensource.org/licenses/MIT)';
+  }
+  else {return '' }
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
