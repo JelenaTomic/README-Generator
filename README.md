@@ -15,9 +15,11 @@ Simple readme generator that helps users to make clean and polished read me by a
 ## [Usage](#table-of-contents)
 Use terminal to invoke node commands and answer the questions provided.
 ## [Installation](#table-of-contents)
-To generate your own readme you will have first to git clone the repo down. When cloning is completed open th VS code by typing 'code .' in your terminal. Ater that you will need  to open terminal in your VS and create  package.json  by typing  'npm init' in your terminal.
+To generate your own readme you will have first to git clone the repo down. When cloning is completed open th VS code by typing 'code .' in your terminal. After that you will need  to open terminal in your VS and create  package.json  by typing  'npm init' in your terminal.
 ## [Contributing](#table-of-contents)
-undefined
+Google and Youtube
+https://www.youtube.com/watch?v=2VUQABoFOqw
+https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
 ## [Tests](#table-of-contents)
 You can create test files inside your repo, or you can simply run the "node index.js" inside your terminal to view the results and modify as desired.
 ## [License](#table-of-contents)
@@ -26,5 +28,6 @@ The application is covered under the
 ## [Questions](#table-of-contents)
 Please contact me using the following options:
 [GitHub](https://github.com/undefined)
+<br>
 [Email: tomic.elena09@gmail.com](mailto:tomic.elena09@gmail.com)
 

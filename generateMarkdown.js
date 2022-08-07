@@ -67,7 +67,7 @@ ${data.usage}
 ## [Installation](#table-of-contents)
 ${data.installation}
 ## [Contributing](#table-of-contents)
-${data.contributing}
+${data.contributions}
 ## [Tests](#table-of-contents)
 ${data.tests}
 ## [License](#table-of-contents)
@@ -76,7 +76,9 @@ ${renderLicenseSection(data.license)}.
 ## [Questions](#table-of-contents)
 Please contact me using the following options:
 [GitHub](https://github.com/${data.github})
-[Email: ${data.email}](mailto:${data.email})
+[Email: ${data.email}]
+<br>
+(mailto:${data.email})
 
 `;
 }
