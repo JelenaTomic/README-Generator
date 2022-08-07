@@ -23,11 +23,10 @@ https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-
 ## [Tests](#table-of-contents)
 You can create test files inside your repo, or you can simply run the "node index.js" inside your terminal to view the results and modify as desired.
 ## [License](#table-of-contents)
-The application is covered under the 
-.
+None
 ## [Questions](#table-of-contents)
 Please contact me using the following options:
-[GitHub](https://github.com/undefined)
+[GitHub](https://github.com/JelenaTomic)
 <br>
 [Email: tomic.elena09@gmail.com](mailto:tomic.elena09@gmail.com)
 
