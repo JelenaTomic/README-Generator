@@ -37,7 +37,7 @@ function renderLicenseSection(license) {
   if(license === 'ISC'){
     return 'ISC License';
   }
-  if(license ===  'MIT'){
+  if(license ===  'MIT'){  
     return 'MIT License';
   }
   else {return ''; }
@@ -49,6 +49,34 @@ function renderLicenseSection(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+
+  ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
+  ## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [License](#License)
+* [Questions](#questions)
+    
+## [Description](#table-of-contents)
+${data.description}
+## [Usage](#table-of-contents)
+${data.usage}
+## [Installation](#table-of-contents)
+${data.installation}
+## [Contributing](#table-of-contents)
+${data.contributing}
+## [Tests](#table-of-contents)
+${data.tests}
+## [License](#table-of-contents)
+The application is covered under the 
+${renderLicenseSection(data.license)}.
+## [Questions](#table-of-contents)
+Please contact me using the following options:
+[GitHub](https://github.com/${data.github})
+[Email: ${data.email}](mailto:${data.email})
 
 `;
 }

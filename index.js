@@ -83,6 +83,19 @@ const questions = [
         }
     },
     {
+        type: "input",
+        message: "What is your project's test instructions?",
+        name: "tests",
+        validate: testsInput => {
+            if (testsInput) {
+                return true;
+            } else {
+                console.log("You need to enter your project's test instructions!");
+                return false;
+            }
+        }
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'What license does your project use?',
@@ -96,6 +109,7 @@ const questions = [
                 }
         }
     },
+    
     {
         type: 'input',
         name: 'askMe',
