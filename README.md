@@ -28,6 +28,7 @@ You can create test files inside your repo, or you can simply run the "node inde
 None
 ## [Questions](#table-of-contents)
 Please contact me using the following options:
+<br>
 [GitHub](https://github.com/JelenaTomic)
 <br>
 [Email: tomic.elena09@gmail.com](mailto:tomic.elena09@gmail.com)
