@@ -1,4 +1,4 @@
-# Readme generator
+# Readme Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
@@ -11,9 +11,9 @@
 * [Questions](#questions)
     
 ## [Description](#table-of-contents)
-clean and polished read me
+clean and polished readme
 ## [Usage](#table-of-contents)
-help user make a clean and polished readme by answering the questions
+help user to make read me by answering the questions
 ## [Installation](#table-of-contents)
 npm init
 ## [Contributing](#table-of-contents)
@@ -25,8 +25,7 @@ The application is covered under the
 MIT License.
 ## [Questions](#table-of-contents)
 Please contact me using the following options:
-[GitHub](https://github.com/undefined)
-[Email: tomic.elena09@gmail.com]
-<br>
-(mailto:tomic.elena09@gmail.com)
+[GitHub]
+(https://github.com/undefined)
+[Email: tomic.elena09@gmail.com](mailto:tomic.elena09@gmail.com)
 

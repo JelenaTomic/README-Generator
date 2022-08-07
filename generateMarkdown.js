@@ -75,10 +75,9 @@ The application is covered under the
 ${renderLicenseSection(data.license)}.
 ## [Questions](#table-of-contents)
 Please contact me using the following options:
-[GitHub](https://github.com/${data.github})
-[Email: ${data.email}]
-<br>
-(mailto:${data.email})
+[GitHub]
+(https://github.com/${data.github})
+[Email: ${data.email}](mailto:${data.email})
 
 `;
 }
