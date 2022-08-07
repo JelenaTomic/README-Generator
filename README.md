@@ -18,7 +18,9 @@ Use terminal to invoke node commands and answer the questions provided.
 To generate your own readme you will have first to git clone the repo down. When cloning is completed open th VS code by typing 'code .' in your terminal. After that you will need  to open terminal in your VS and create  package.json  by typing  'npm init' in your terminal.
 ## [Contributing](#table-of-contents)
 Google and Youtube
+<br>
 https://www.youtube.com/watch?v=2VUQABoFOqw
+<br>
 https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents
 ## [Tests](#table-of-contents)
 You can create test files inside your repo, or you can simply run the "node index.js" inside your terminal to view the results and modify as desired.
