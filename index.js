@@ -99,7 +99,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What license does your project use?',
-        choices: ['None', 'Apache 2.0', 'MIT', 'GPL v3.0'],
+        choices: ['None', 'IPL', 'ISC' ,'MIT'],
         validate: licenseInput = () => {
             if (licenseInput) {
                 return true;
@@ -112,13 +112,13 @@ const questions = [
     
     {
         type: 'input',
-        name: 'askMe',
-        message: 'What is your Github username so others can reach you for questions?',
-        validate: askMeInput => {
-            if (askMeInput) {
+        name: 'github',
+        message: 'What is your Github username ?',
+        validate: githubInput => {
+            if (githubInput) {
                 return true;
             } else {
-                console.log('Please provide your username so others can reach out to you with questions');
+                console.log('Please provide your username ');
                 return false;
             }
         }
@@ -126,7 +126,7 @@ const questions = [
     {
         type: 'input',
         name: 'email',
-        message: 'What is your email so there is another way to be reached for questions?',
+        message: 'What is your email so there is way to be reached for the questions?',
         validate: emailInput => {
             if (emailInput) {
                 return true;
