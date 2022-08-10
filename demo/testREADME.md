@@ -26,6 +26,6 @@ MIT License.
 ## [Questions](#table-of-contents)
 Please contact me using the following options:
 [GitHub]
-(https://github.com/undefined)
+(https://github.com/JelenaTomic)
 [Email: tomic.elena09@gmail.com](mailto:tomic.elena09@gmail.com)
 
