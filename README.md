@@ -1,7 +1,7 @@
 # README GENERATOR
 
 # Demo
-![](./demo/Screen%20Recording%202022-08-09%20at%209.44.25%20PM.mov)
+![](./demo/videovideo.mov)
   
   ## Table of Contents
 * [Description](#description)
