@@ -27,5 +27,6 @@ MIT License.
 Please contact me using the following options:
 [GitHub]
 (https://github.com/JelenaTomic)
+<br>
 [Email: tomic.elena09@gmail.com](mailto:tomic.elena09@gmail.com)
 
