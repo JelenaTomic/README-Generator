@@ -149,7 +149,7 @@ function init() {
     inquirer.prompt(questions)
     .then(function (data) {
         console.log(generateMarkdown(data))
-        writeToFile('./testREADME.md', generateMarkdown(data))
+        writeToFile('./demoReadme.md', generateMarkdown(data))
     });
 };
 
